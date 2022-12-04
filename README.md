@@ -22,7 +22,7 @@ The implementation is based on the following software and libraries:
 ### i) Covtype
 1. Dataset and description can be found via https://archive.ics.uci.edu/ml/datasets/covertype.
 
-2. For your convenience, this dataset is available at `./matlab/data/covtype/covtype.mat'.
+2. For your convenience, this dataset is available at `./matlab/data/covtype/covtype.mat`.
   
 
 ## II. Test the proposed and baseline methods
