@@ -29,9 +29,9 @@ The implementation is based on the following software and libraries:
 
 1. Launch MATLAB in the `./matlab/` folder.
 
-2. In `setup.m', change the path to your installed Eigen library.
+2. In `setup.m`, change the path to your installed Eigen library.
 
-3. Run `setup.m' in MATLAB command window. This should give you mex-ed functions. 
+3. Run `setup` in MATLAB command window. This should give you mex-ed functions. 
 
 4. Try running `test_rcv1(2, 0.2, 0)`, or see all used p (corresponding to the parameter alpha in our paper) and delta (corresponding to the parameter beta in our paper) choices in `main.m`.
 
